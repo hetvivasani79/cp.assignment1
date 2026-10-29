@@ -1,2 +1,2 @@
-# cp.assignment1
+# cp.assignment
 C programming practice codes.
